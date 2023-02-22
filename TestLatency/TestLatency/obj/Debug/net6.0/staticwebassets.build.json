@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D6Y8tQO/67qxoikEXZ7zJUPU5MQYo6yWs6VU2WTJn6w=",
+  "Source": "TestLatency",
+  "BasePath": "_content/TestLatency",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

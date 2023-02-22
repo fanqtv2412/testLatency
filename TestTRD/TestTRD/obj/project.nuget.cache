@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0i51oPpiTGoW1n4vvd+XmbwSYnpUjS+BcSuJpoipKSgHMdJ4ORt5YrmzPXeAkdJYZxf8UZLZvXlryrj1sob3Gw==",
+  "success": true,
+  "projectFilePath": "D:\\DatNT4\\Repo\\TestTRD\\TestTRD\\TestTRD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\datnt4\\.nuget\\packages\\confluent.kafka\\2.0.2\\confluent.kafka.2.0.2.nupkg.sha512",
+    "C:\\Users\\datnt4\\.nuget\\packages\\librdkafka.redist\\2.0.2\\librdkafka.redist.2.0.2.nupkg.sha512",
+    "C:\\Users\\datnt4\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
